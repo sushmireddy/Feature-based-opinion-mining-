@@ -1,0 +1,8 @@
+link of the dataset
+
+https://www.kaggle.com/brarajit18/student-feedback-dataset
+
+
+description:
+This dataset is comprised of 6 categories, which includes teaching, course content, examination, lab work, library facilities and extra curricular activities. 
+Data for each category includes two columns, where each column can have any of the three labels, i.e. 0 (neutral), 1 (positive) and -1 (negative).
